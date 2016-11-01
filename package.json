@@ -10,7 +10,7 @@
     "node": "6"
   },
   "keywords": [],
-  "author": "Cade Nichols <cade@codinghouse.co>",
+  "author": "Joshua Maddox <joshua@cinderhousecreative.com>",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.17.0",
@@ -29,6 +29,8 @@
     "node-sass": "^3.10.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0",
     "resolve-url-loader": "^1.6.0",
     "sass-loader": "^4.0.2",
     "style-loader": "^0.13.1",
